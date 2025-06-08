@@ -11,7 +11,7 @@ int mais (){
 
 
     printf("Digite o nome do estado: \n");
-    scanf("%s, &estado");
+    scanf("%s", &estado);
     printf("Estado: %s", estado);
 
 }
