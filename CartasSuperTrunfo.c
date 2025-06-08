@@ -19,7 +19,7 @@ int main (){
     printf("Cidade: %s\n", cidade);
     printf("População: %d mil habitantes \n", populacao);
     //digitar ".0" entre o %.0f para remover as casas decimais
-    printf("Área: %.0f mil km2 \n", areakm2);
+    printf("Área: %.0f mil km² \n", areakm2);
     printf("Pib: R$ %.0f bilhões \n", pib);
     printf("Pontos Turísticos: %d\n", pontosturisticos);
     printf("\n");
