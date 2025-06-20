@@ -26,7 +26,7 @@ int main (){
     float pibpercapita2 = (float) pib2 / populacao2;
     
 
-//inserir dados carta 1
+//inserir dados para responder os requisitos da carta1
     printf("Carta 1: Digite os dados da carta 1 conforme for solicitado.\n");
 
     printf("Digite a letra referente o Estado da carta1: ");
@@ -52,7 +52,7 @@ int main (){
 
             
 
-//inserir dados carta 2
+//inserir dados para responder os requisitos da carta2
     printf("\nCarta 2: Digite os dados da carta 2 conforme for solicitado.\n");
 
     printf("Digite a letra referente o Estado da carta2: ");
