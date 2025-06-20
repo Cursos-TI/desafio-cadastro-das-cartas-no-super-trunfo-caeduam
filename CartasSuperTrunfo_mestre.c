@@ -111,15 +111,7 @@ int main (){
     int resultadoDensidade;
     int resultadoPibPerCapita;
     int resultadoSuperPoder;
-
-    resultadoPopul = populacao1 > populacao2;
-    resultadoArea = areakm1 > areakm2;
-    resultadoPib = pib1 > pib2;
-    resultadoPontosturisticos = pontosturisticos1 > pontosturisticos2;
-    resultadoDensidade = densidadepopul1 < densidadepopul2;
-    resultadoPibPerCapita = pibpercapita1 > pibpercapita2;
-    resultadoSuperPoder = superpoder1 > superpoder2;
-    
+           
     //imprimir comparativos das cartas
     printf("\n***** Comparativos das Cartas 1 e 2 *****\n");
     printf("População Carta 1 venceu? (%d)\n", populacao1 > populacao2);
