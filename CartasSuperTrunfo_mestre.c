@@ -28,6 +28,7 @@ int main (){
     double superpoder2 = populacao2 + areakm2 + pib2 + pontosturisticos2 + pibpercapita2 + densidadepopul2;
     
 //inserir dados para responder os requisitos da carta1
+    printf("***** Desafio Super Trunfo *****\n");
     printf("Carta 1: Digite os dados da carta 1 conforme for solicitado.\n");
 
     printf("Digite a letra referente o Estado da carta1: ");
